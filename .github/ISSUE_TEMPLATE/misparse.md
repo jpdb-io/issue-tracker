@@ -1,7 +1,7 @@
 ---
 name: misparse
 about: Report a misparse
-title: ''
+title: 'Misparse of word: PASTE HERE'
 labels: misparse
 assignees: ''
 
